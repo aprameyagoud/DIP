@@ -10,7 +10,7 @@ This MATLAB project demonstrates basic image processing operations:
 
 ## 📁 Files
 - `cat.jpg` — Input image (must be in the same folder as the script)
-- `main.m` — Main MATLAB script containing the processing logic
+- `EXP_1.m` — Main MATLAB script containing the processing logic
 
 ---
 
@@ -30,4 +30,4 @@ This MATLAB project demonstrates basic image processing operations:
 2. Place the script and `cat.jpg` in the same working directory
 3. Run the script:
    ```matlab
-   main
+   EXP_1
