@@ -2,10 +2,14 @@ clear all;
 close all;
 clc;
 
+
+//Take input of an image
 I=imread('cat.jpg');
 [m,n,c]=size(I);
+
+//To make a Gray image Manually
 Igr=zeros(m,n);
-for p=1:m
+for p=1:mgit
     for q=1:n
         rr=double(I(p,q,1));
         gg=double(I(p,q,2));
@@ -15,6 +19,8 @@ for p=1:m
 end
 Igr = uint8(Igr);
 
+
+//For making a Black image manually
 Ibw=zeros(m,n);
 mean_val = mean(Igr(:)); 
 
@@ -29,9 +35,11 @@ for i=1:m
 end
 Ibw = uint8(Ibw);
 
+
+//To get colored images
 Ir=I;
-Ir(:,:,2)=0;
 Ir(:,:,3)=0;
+Ir(:,:,2)=0;
 
 Ig=I;
 Ig(:,:,1)=0;
