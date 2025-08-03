@@ -1,0 +1,40 @@
+clear all;
+close all;
+clc;
+
+I=imread('cat.jpg');
+[m,n,c]=
+
+Ir=I;
+Ir(:,:,2)=0;
+Ir(:,:,3)=0;
+
+Ig=I;
+Ig(:,:,1)=0;
+Ig(:,:,3)=0;
+
+Ib=I;
+Ib(:,:,2)=0;
+Ib(:,:,1)=0;
+
+
+
+subplot(2,3,1);
+imshow(I);
+title('Original RGB Image')
+
+subplot(2,3,2);
+imshow(Igr)
+title('Grayscale Image')
+
+subplot(2,3,4);
+imshow(Ir)
+title('Red Image')
+
+subplot(2,3,5);
+imshow(Ig)
+title('Green Image')
+
+subplot(2,3,6);
+imshow(Ib)
+title('Blue Image')
