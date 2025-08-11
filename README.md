@@ -34,29 +34,13 @@ DIP/
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/aprameyagoud/DIP.git
-   cd DIP
-   ```
-
-2. Open MATLAB and set the current folder to the specific experiment directory (e.g., `Experiment_1_Color_to_Grayscale`).
-
-3. Run the main script:
-   ```matlab
-   main
-   ```
-
----
 
 ## 🧪 List of Experiments
 
 | Experiment | Description                            | Status |
 |------------|----------------------------------------|--------|
 | 1          | RGB to Grayscale & Channel Separation  | ✅ Done |
-| 2          | (Add Description Here)                 | ⏳ TODO |
+| 2          | Histogram Equalisation and Bit Slicing | ✅ Done |
 | 3          | (Add Description Here)                 | ⏳ TODO |
 
 
