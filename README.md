@@ -4,28 +4,6 @@ This repository showcases lab experiments and assignments developed during the D
 
 ---
 
-## 📁 Folder Structure
-
-Each experiment is organized into a separate folder or script:
-
-```
-DIP/
-│
-├── Experiment_1_Color_to_Grayscale/
-│   └── main.m
-│   └── cat.jpg
-│   └── README.md
-│
-├── Experiment_2_<Name>/
-│   └── ...
-│
-├── Experiment_3_<Name>/
-│   └── ...
-│
-└── README.md   ← You are here
-```
-
----
 
 ## 📌 Prerequisites
 
@@ -47,14 +25,6 @@ DIP/
 
 ---
 
-## 🎨 Example Output (Exp 1)
-
-- Original RGB image  
-- Grayscale image  
-- Binary (black & white) image  
-- Red / Green / Blue channel isolation
-
----
 
 ## ✍️ Author
 
