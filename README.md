@@ -15,11 +15,11 @@ This repository showcases lab experiments and assignments developed during the D
 
 ## 🧪 List of Experiments
 
-| Experiment | Description                            | Status |
-|------------|----------------------------------------|--------|
-| 1          | RGB to Grayscale & Channel Separation  | ✅ Done |
-| 2          | Histogram Equalisation and Bit Slicing | ✅ Done |
-| 3          | (Add Description Here)                 | ⏳ TODO |
+| Experiment | Description                                       | Status   |
+|------------|---------------------------------------------------|----------|
+| 1          | RGB to Grayscale & Channel Separation             | ✅ Done |
+| 2          | Histogram Equalisation and Bit Slicing            | ✅ Done |
+| 3          | Shannon-Fano Coding and Huffman Coding for Images | ✅ Done |
 
 
 
