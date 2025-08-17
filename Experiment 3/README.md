@@ -5,9 +5,7 @@ This folder contains the implementation and results of two fundamental data comp
 ## Contents
 - **Shannon_Fano.py** – Python code to implement Shannon-Fano encoding and decoding.
 - **Huffman_Coding.py** – Python code to implement Huffman encoding and decoding.
-- **Input_Text.txt** – Sample input text file used for compression.
-- **Shannon_Fano_Output.txt** – Encoded and decoded output using Shannon-Fano algorithm.
-- **Huffman_Output.txt** – Encoded and decoded output using Huffman algorithm.
+- **README.md** – Readme for this experiment.
 
 ## Overview
 
