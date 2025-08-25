@@ -20,6 +20,7 @@ This repository showcases lab experiments and assignments developed during the D
 | 1          | RGB to Grayscale & Channel Separation             | ✅ Done |
 | 2          | Histogram Equalisation and Bit Slicing            | ✅ Done |
 | 3          | Shannon-Fano Coding and Huffman Coding for Images | ✅ Done |
+| 4          | Arithmetic Coding and JPEG Compression            | ✅ Done |
 
 
 
